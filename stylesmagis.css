@@ -1,0 +1,47 @@
+.fondo{
+    background-color:lightslategray;  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#titulo{
+    margin-right: 40vh;
+    margin-left: 40vh;
+    background-color: lightcoral;
+    border-radius: 7px;
+}
+
+/**entrada**/
+#usuario1{
+    background-color: lightcoral;
+   
+}
+#contraseña1{
+    opacity: 0.75;
+}
+#mejoresPelis{
+    background-color: lightgrey;
+    border-radius: 7px;
+}
+#fechas-de-lanzamiento{
+    background-color:lightgreen;
+    border-radius: 7px;
+}
+#ordenar{
+    background-color: lightskyblue;
+    border-radius: 7px;
+    
+}
+#todas-las-pelis{
+    background-color: lightpink;
+    border-radius: 7px;
+    
+}
+.inicio{
+
+    display: block;
+    margin-left: 35vh;
+    
+}    
+#cajita{
+    display: flex;
+    gap: 122px;
+}
